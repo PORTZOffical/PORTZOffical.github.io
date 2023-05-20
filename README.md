@@ -4,6 +4,6 @@ The official site for downloading games ported to pc by PORTZ!
 (If any files are being blocked by windows note that everything uploaded to PORTZOfficial.github.io is safe.)
 
 
-FlappyBird: https://github.com/PORTZOffical/PORTZOffical.github.io/releases/download/game/Flappy.Bird.PORTZ.rar
+FlappyBird: https://portzdev.itch.io/flappybird-portz
 
-(WARNING FlappyBird requires WinRAR as its a .rar file.)
+itch.io lets go
